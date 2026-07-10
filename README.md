@@ -42,17 +42,6 @@ Git, Postman, JIRA, Scrum, Kanban
 
 ---
 
-## 🧪 Experience
-
-- **Web Developer Intern** (July – Sept 2024)  
-  - Developed 3D apps with Django, React, Three.js, Trimesh  
-  - Improved performance by replacing `eval()` and debugging with JS/PHP
-
-- **Freelance Web Developer** (Since Sept 2024)  
-  - Delivered secure, scalable websites and optimized UX
-
----
-
 ## 🏅 Certifications
 
 - **AWS Solutions Architect – Knowledge Badge**  
